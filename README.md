@@ -16,11 +16,6 @@ A Python tool that compares two CMX3600 EDL (Edit Decision List) files and outpu
 git clone <repository-url>
 cd changelist
 
-# Create virtual environment (optional)
-python -m venv .venv
-.venv\Scripts\activate  # Windows
-# source .venv/bin/activate  # Linux/macOS
-
 # No external dependencies required - uses Python standard library only
 ```
 
