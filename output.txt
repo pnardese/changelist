@@ -1,0 +1,5 @@
+Changed	01:00:08:06	TC	yellow	Time difference 2 frames  [2 frames]. TAIL trimmed from 18:15:20:14 to 18:15:20:12. Old length: 7 seconds 14 frames [182 frames] - New length: 7 seconds 16 frames [184 frames] (B018C003_220611_RYX1.mov)	1
+Changed	01:00:15:22	TC	yellow	Time difference -2 frames  [-2 frames]. TAIL extended from 18:43:06:10 to 18:43:06:12. Old length: 2 seconds 9 frames [57 frames] - New length: 2 seconds 7 frames [55 frames] (B018C008_220611_RYX1.mov)	1
+New	01:00:27:14	TC	magenta	Clip added (B001C002_220528_RYX1.mov)	1
+Changed	01:00:38:14	TC	yellow	No time difference. Shifted within itself.  HEAD extended from 07:25:31:16 to 07:25:31:12. TAIL trimmed from 07:25:32:14 to 07:25:32:10. (B001C005_220528_RYX1.mov)	1
+Changed	01:00:40:15	TC	yellow	Time difference 3 frames  [3 frames]. TAIL extended from 07:38:40:11 to 07:38:40:14. Old length: 2 seconds 22 frames [70 frames] - New length: 3 seconds 1 frame [73 frames] (B001C009_220528_RYX1.mov)	1
